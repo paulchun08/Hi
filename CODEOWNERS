@@ -1,0 +1,9 @@
+# These owners will be the default owners for everything in
+# the repo.
+*                            @paulchun08 @iwnbmd
+
+# Dot-files should be handled by the lead dev (.gitignore and co)
+.*                           @paulchun08
+
+# Frontend assets
+*.js                         @iwnbmd
